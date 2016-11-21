@@ -1,7 +1,9 @@
 # information-Store
 
-#Good Good Study, Day Day Up!
+# Good Good Study, Day Day Up!
 
-#Try harder!
+# Try harder!
 
-#Stay hungry and Stay foolish!
+# Stay hungry and Stay foolish!
+
+## Markdown Test
